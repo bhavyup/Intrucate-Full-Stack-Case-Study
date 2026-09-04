@@ -21,8 +21,8 @@ needed), OpenAI, Groq, Gemini, or a local NVIDIA NIM proxy.
 - `backend/` - the whole service. Setup, usage, and design notes are in
   [backend/README.md](backend/README.md)
 - `backend/seed_prompts.py` - seeds the `Education_Prompt` template
-- `docs/` - the task description and submission instructions
-- `BUILD_PLAN.md` - the plan the build followed
+- `docs/` - the task description, submission instructions, and the
+  [architecture notes](docs/ARCHITECTURE.md)
 
 ## Quick start
 
